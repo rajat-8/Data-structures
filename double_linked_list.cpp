@@ -1,7 +1,13 @@
+// This is a menu driven program for Linear and circular double Linked List 
+
+// This conatins different operations for inserting and deletio of data
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
 
+// funtion prototype declaration
+//linear linked list functions
 void create();
 void display();
 void insert_begin();
@@ -11,6 +17,7 @@ void delete_begin();
 void delete_end();
 void delete_pos();
 
+//circular linked list functions
 void ccreate();
 void cdisplay();
 void cinsert_begin();
