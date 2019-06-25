@@ -1,6 +1,6 @@
 // This is a menu driven program for Linear and circular double Linked List 
 
-// This conatins different operations for inserting and deletio of data
+// This conatins different operations for insertion and deletion of different values
 
 #include<iostream>
 #include<cstdlib>
