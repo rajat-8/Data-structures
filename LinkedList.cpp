@@ -1,7 +1,12 @@
+//this is a menu driven program for linear and circular single linked list using a structure
+
+
 #include<iostream>
 #include<cstdlib>
 using namespace std;
 
+
+//Functions of linear single linked list
 void create();
 void display();
 void insert_begin();
@@ -11,6 +16,7 @@ void delete_begin();
 void delete_end();
 void delete_pos();
 
+//functions of circular single linked list
 void ccreate();
 void cdisplay();
 void cinsert_begin();
