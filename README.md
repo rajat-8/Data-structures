@@ -1,2 +1,7 @@
 # Data-structures
-This contains numerous data structure projects.
+
+This repository contains simple data structure projects for basic college level .
+
+# Instructions
+
+Use any any c++14 compatible compiler to run these
